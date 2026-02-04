@@ -1,6 +1,6 @@
-<!-- <p align="center">
+<p align="center">
     <img src="LinkedinBanner.png" alt="Banner" />
-</p> -->
+</p>
   
 <!-- Animated Header -->
 <p align="center">
