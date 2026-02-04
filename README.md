@@ -109,31 +109,21 @@ Strong inclination toward **AI research, experimentation, and real-world deploym
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Roy-oops&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Roy-oops&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Roy-oops&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:asrpcp7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-DFA200?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/aditya-roy-oops">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00B0FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://github.com/Aditya-Roy-oops">
-    <img src="https://img.shields.io/badge/GitHub-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-00200?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
+  <!-- <a href="https://www.instagram.com/aditya_x_tech/">
+    <img src="https://img.shields.io/badge/Instagram-F000de?style=for-the-badge&logo=Instagram&logoColor=black"/>
+  </a> -->
 </p>
 
 ---
