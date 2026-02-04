@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="LinkedBanner.png" alt="Banner" />
+    <img src="LinkedinBanner.png" alt="Banner" />
 </p>
   
 <!-- Animated Header -->
