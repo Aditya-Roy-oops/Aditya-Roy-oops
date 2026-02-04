@@ -48,27 +48,39 @@ Strong inclination toward **AI research, experimentation, and real-world deploym
 
 ---
 
-### 🤖 AI & LLMs
-- Prompt Engineering  
-- Fine-tuning LLMs  
-- Retrieval Augmented Generation (RAG)  
-- LangChain & LlamaIndex  
-- Hugging Face  
-- OpenAI & Gemini APIs  
-- Multi-modal AI (Vision + NLP + Speech)
+## 🧠 AI & LLM Stack
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0D1117?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=for-the-badge)
+![MultiModal](https://img.shields.io/badge/Multi--Modal_AI-0D1117?style=for-the-badge)
 
 ---
 
-### 📊 Machine Learning
-- NLP & Transformers  
-- Embeddings  
-- Scikit-learn  
-- XGBoost  
-- Pandas, NumPy  
+## 💻 Languages
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=red)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql)
 
 ---
 
-### ⚙️ Frameworks & APIs
+## 📊 Machine Learning
+![NLP](https://img.shields.io/badge/NLP-0D1117?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-0D1117?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge)
+
+---
+
+## ⚙️ Frameworks & APIs
 ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit)
@@ -76,40 +88,21 @@ Strong inclination toward **AI research, experimentation, and real-world deploym
 
 ---
 
-### 🗄️ Databases
-- Vector Databases  
-- NoSQL Databases  
+## 🗄️ Databases & Infra
+![VectorDB](https://img.shields.io/badge/Vector_Databases-0D1117?style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/NoSQL-0D1117?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
+![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge)
 
 ---
 
-### 🧪 Testing & Tools
-- PyTest (Unit Testing)  
-- Debugging & Error Analysis  
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Docker (Basic)  
-- Vercel  
-- STT, TTS, Vision-based AI systems  
-
----
-
-### 🧠 Core Concepts
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms (DSA)  
-- Data Science Life Cycle  
-- Code Optimization  
-- SDLC  
-- System Design  
-- CI/CD Concepts  
-
----
-
-### 🌱 Soft Skills
-- Problem Solving  
-- Research & Innovation Mindset  
-- Cross-Cultural Collaboration  
-- Analytical Thinking  
+## 🧪 Tools & Concepts
+![Git](https://img.shields.io/badge/Git_&_GitHub-0D1117?style=for-the-badge)
+![PyTest](https://img.shields.io/badge/PyTest-0D1117?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-0D1117?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-0D1117?style=for-the-badge)
+![SystemDesign](https://img.shields.io/badge/System_Design-0D1117?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge)
 
 ---
 
