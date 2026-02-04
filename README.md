@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="LinkedBanner.png" alt="Banner" />
+</p>
+  
 <!-- Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Aditya+Sharma;AI+Research+Analyst;Agentic+AI+%7C+LLMs+%7C+Python+Engineer;Building+Intelligent+AI+Systems" />
